@@ -1,0 +1,7 @@
+TO RUN:
+1. Open up a terminal and navigate to /chattrbox
+type npm run dev.
+
+2. Open a 2nd terminal and type wscat -c ws://localhost:3001 
+
+3. open a third terminal and type wscat -c http://localhost:3001  
